@@ -1,0 +1,4 @@
+Source: msquic
+Version: 0.0.1
+Homepage: https://github.com/microsoft/msquic
+Description: MS Quic is an implementation of Quic
